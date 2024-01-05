@@ -1,9 +1,9 @@
-# <center>Olá! 👋 Sou o Wellington, é um prazer conhecê-lo!</center>
+<h1 align="center">Olá! 👋 Sou o Wellington, é um prazer conhecê-lo!</h1>
 
-### <center> Este é meu repositório de Análise e Ciência de Dados</center>
----
-### :speech_balloon: Sobre mim:
----
+<h3 align="center">Este é meu repositório de Análise e Ciência de Dados.</h3>
+
+<h2 align="left">🗨 Sobre mim:</h2>
+
 Atualmente, estou cursando o mestrado em Sociologia na Universidade Federal de Minas Gerais, com foco na linha de Sociologia Econômica e das Organizações. Sou também Licenciado em Ciências Sociais, com uma Formação Complementar Aberta em Estatística pela mesma universidade. Ao longo da graduação, participei ativamente do projeto Pescarte, onde desenvolvi minha Iniciação Científica, colaborando com uma equipe multidisciplinar composta por sociólogos, antropólogos, estatísticos e educadores ambientais.
 
 Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análise de Redes Sociais, vinculado à FAFICH da UFMG. Meu interesse acadêmico se concentra na análise de dados, pesquisa científica, meio ambiente, políticas públicas para redução das desigualdades sociais, geração de emprego e renda, tecnologia e aplicação de ferramentas como linguagem de programação R, Microsoft Power BI, estatística e suas diversas aplicações.
