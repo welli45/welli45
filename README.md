@@ -17,6 +17,10 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 * ✍️ Atuamente estou aprofundando meus conhecimentos em estatística e probabilidade;
 * ✍️ Programação em Python e Bancos de Dados SQL;
 * ✍️ E conceitos e aplicações de Busines Intelignce com Power Bi
+  
+#### Portifólio e Projetos
+---
+Em construção ...
 
 ### Habilidades Técnicas
 ---
