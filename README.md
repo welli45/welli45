@@ -14,6 +14,9 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 * :office: Fui estagiário em Análise de Redes e Dados no Instituto Cordial
 * :office: Fui estagiário em Análise de Dados na SEDESE-MG
 * :rocket: Atualmente estou focado nas áreas de Análise e Ciência de Dados
+* ✍️ Atuamente estou aprofundando meus conhecimentos em estatística e probabilidade;
+* ✍️ Programação em Python e Bancos de Dados SQL;
+* ✍️ E conceitos e aplicações de Busines Intelignce com Power Bi
 
 ### Habilidades Técnicas
 ---
