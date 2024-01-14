@@ -32,7 +32,7 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 
 * [Nocoes de Probabilidade e Estatistica](https://github.com/welli45/Nocoes-Probabilidade-Estatistica.git)
 
-* [Disciplina de pacotes estatísticos](https://github.com/welli45/2023_1-PACOTES-ESTATISTICOS.git)
+* [Disciplina de pacotes estatísticos UFMG - 2023](https://github.com/welli45/2023_1-PACOTES-ESTATISTICOS.git)
 
 <!---
 welli45/welli45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
