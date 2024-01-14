@@ -28,7 +28,7 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 
  ### Guia de Repositórios
  ---
- * Projeto Final de Data Analytics do Google
+ * [Projeto Final de Data Analytics do Google](https://github.com/welli45/Projeto-final-de-Data-Analytics-do-Google.git)
 
 
 <!---
