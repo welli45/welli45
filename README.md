@@ -35,15 +35,17 @@ Em construção ...
 
  ### Guia de Repositórios
  ---
- * [Projeto Final de Data Analytics do Google](https://github.com/welli45/Projeto-final-de-Data-Analytics-do-Google.git)
+* [Projeto Final de Data Analytics do Google](https://github.com/welli45/Projeto-final-de-Data-Analytics-do-Google.git)
 
 * [Nocoes de Probabilidade e Estatistica](https://github.com/welli45/Nocoes-Probabilidade-Estatistica.git)
 
 * [Disciplina de pacotes estatísticos UFMG - 2023](https://github.com/welli45/2023_1-PACOTES-ESTATISTICOS.git)
   
-* [ Desempenho dos Alunos nos Provas](https://github.com/welli45/Student-performance-prediction)
+* [Desempenho dos Alunos nos Provas](https://github.com/welli45/Student-performance-prediction)
 
 * [Análide de dados com amostragem complexa - PNS](https://github.com/welli45/PNS)
+
+* [Análise de Redes Sociais](https://github.com/welli45/Analise-de-Redes-Para-Ciencias-Sociais)
 
 <!---
 welli45/welli45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
