@@ -16,7 +16,7 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 * :rocket: Atualmente estou focado nas áreas de Análise e Ciência de Dados
 * ✍️ Atuamente estou aprofundando meus conhecimentos em estatística e probabilidade;
 * ✍️ Programação em Python e Bancos de Dados SQL;
-* ✍️ E conceitos e aplicações de Busines Intelignce com Power Bi
+* ✍️ E conceitos e aplicações de Busines Inteligence com Power Bi
   
 ### Portifólio e Projetos
 ---
