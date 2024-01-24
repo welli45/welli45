@@ -20,7 +20,7 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
   
 ### Portifólio e Projetos
 ---
-Em construção ...
+[Portfólio de Análise e Ciência de Dados! 🚀](https://github.com/welli45/Portifolio-dados-Wellington)
 
 ### Habilidades Técnicas
 ---
