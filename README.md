@@ -6,7 +6,7 @@
 
 <div align="justify"> Atualmente, estou cursando o mestrado em Sociologia na Universidade Federal de Minas Gerais, com foco na linha de Sociologia Econômica e das Organizações. Sou também Licenciado em Ciências Sociais, com uma Formação Complementar Aberta em Estatística pela mesma universidade. Ao longo da graduação, participei ativamente do projeto Pescarte, onde desenvolvi minha Iniciação Científica, colaborando com uma equipe multidisciplinar composta por sociólogos, antropólogos, estatísticos e educadores ambientais.
 
-Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análise de Redes Sociais, vinculado à FAFICH da UFMG. Meu interesse profissional e acadêmico se concentra na análise de dados, pesquisa científica, meio ambiente, políticas públicas para redução das desigualdades sociais, geração de emprego e renda, tecnologia e aplicação de ferramentas como linguagem de programação R, Microsoft Power BI, estatística e suas diversas aplicações. </p>
+Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análise de Redes Sociais, vinculado à FAFICH da UFMG. Meu interesse profissional e acadêmico se concentra na análise de dados, pesquisa científica, meio ambiente, políticas públicas para redução das desigualdades sociais, geração de emprego e renda, tecnologia e aplicação de ferramentas como linguagem de programação R, Microsoft Power BI, estatística e suas diversas aplicações.</p>
 
 * :mortar_board: Mestrando em Sociologia - UFMG
 * :mortar_board: Cientista Social - UFMG
@@ -17,11 +17,15 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 * ✍️ Atuamente estou aprofundando meus conhecimentos em estatística e probabilidade;
 * ✍️ Programação em Python e Bancos de Dados SQL;
 * ✍️ E conceitos e aplicações de Busines Inteligence com Power Bi
-  
- ## Guia de Projetos
- ---
- #### R e Rstudio
+### Informações de contato
+[Linkedin](https://www.linkedin.com/in/wellington-santos-souza/) -
+[Lattes](http://lattes.cnpq.br/6574776498457184) -
+[Email](mailto:wellingtonstssza@gmail.com)
+
+## Guia de Projetos
  
+### R e Rstudio
+---
 * [Projeto Final de Data Analytics do Google](https://github.com/welli45/Projeto-final-de-Data-Analytics-do-Google.git)
 
 * [Nocoes de Probabilidade e Estatistica](https://github.com/welli45/Nocoes-Probabilidade-Estatistica.git)
@@ -31,13 +35,13 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 * [Análide de dados com amostragem complexa - PNS](https://github.com/welli45/PNS)
 
 * [Análise de Redes Sociais](https://github.com/welli45/Analise-de-Redes-Para-Ciencias-Sociais)
-  
-#### Python
 
+### Python
+---
 * [Desempenho dos Alunos nos Provas](https://github.com/welli45/Student-performance-prediction)
   
-#### Power BI
-
+### Power BI
+---
 * [Dashbard Índeces de Percepção da Corrupção](https://app.powerbi.com/view?r=eyJrIjoiYmY0ZDk0YzctOTlkZC00Njg3LWIxMDgtZjhkNTM1ZDJhN2UzIiwidCI6IjkzMTA1Y2MzLTI4OTctNDdlMC1iMjY1LWRkZWQ1ODg2MTU2YSIsImMiOjZ9)
   
 * [Projeto Majestic](https://app.powerbi.com/view?r=eyJrIjoiNTAxOTQ3ZjQtYmNlNi00OTk4LTk4MTAtZTYxY2RlZWNjOTMyIiwidCI6IjkzMTA1Y2MzLTI4OTctNDdlMC1iMjY1LWRkZWQ1ODg2MTU2YSIsImMiOjZ9)
