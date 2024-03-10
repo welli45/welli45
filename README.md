@@ -18,30 +18,37 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 * ✍️ Programação em Python e Bancos de Dados SQL;
 * ✍️ E conceitos e aplicações de Busines Inteligence com Power Bi
   
-### Habilidades Técnicas
----
-<img src="https://www.r-project.org/Rlogo.png" width="150" height="105"> <img src ="https://github.com/welli45/welli45/assets/74972381/9cc2e420-8876-42f9-b67a-2eb5f1172698" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/dplyr.png" width="53,6" height="65">  <img src = "https://www.tidyverse.org/css/images/hex/tidyr.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/tibble.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/stringr.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/purrr.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/ggplot2.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/forcats.png" width="53,6" height="65"> <img src=https://rstudio.github.io/cheatsheets/html/images/logo-rmarkdown.png width="53,6" height="65">
-
-
-<img src = "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="100,7" height="117,8"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/449px-Pandas_mark.svg.png?20200210000431"  width="64,9" height="79,9"> <img src="https://numpy.org/images/logo.svg" width="60" height="60"> <img src = "https://jupyter.org/assets/homepage/main-logo.svg" width="60" height="60">
-
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="80" height="80"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/64px-New_Power_BI_Logo.svg.png" width="80" height="80"> 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/64px-Google_Sheets_2020_Logo.svg.png"> <img src = "https://seeklogo.com/images/G/google-big-query-logo-AC63E7C329-seeklogo.com.png"> 
-
- ### Guia de Repositórios
+ ## Guia de Projetos
  ---
+ #### R e Rstudio
+ 
 * [Projeto Final de Data Analytics do Google](https://github.com/welli45/Projeto-final-de-Data-Analytics-do-Google.git)
 
 * [Nocoes de Probabilidade e Estatistica](https://github.com/welli45/Nocoes-Probabilidade-Estatistica.git)
 
 * [Disciplina de pacotes estatísticos UFMG - 2023](https://github.com/welli45/2023_1-PACOTES-ESTATISTICOS.git)
   
-* [Desempenho dos Alunos nos Provas](https://github.com/welli45/Student-performance-prediction)
-
 * [Análide de dados com amostragem complexa - PNS](https://github.com/welli45/PNS)
 
 * [Análise de Redes Sociais](https://github.com/welli45/Analise-de-Redes-Para-Ciencias-Sociais)
+  
+#### Python
+
+* [Desempenho dos Alunos nos Provas](https://github.com/welli45/Student-performance-prediction)
+  
+#### Power BI
+
+* [Dashbard Índeces de Percepção da Corrupção](https://app.powerbi.com/view?r=eyJrIjoiYmY0ZDk0YzctOTlkZC00Njg3LWIxMDgtZjhkNTM1ZDJhN2UzIiwidCI6IjkzMTA1Y2MzLTI4OTctNDdlMC1iMjY1LWRkZWQ1ODg2MTU2YSIsImMiOjZ9)
+  
+* [Projeto Majestic](https://app.powerbi.com/view?r=eyJrIjoiNTAxOTQ3ZjQtYmNlNi00OTk4LTk4MTAtZTYxY2RlZWNjOTMyIiwidCI6IjkzMTA1Y2MzLTI4OTctNDdlMC1iMjY1LWRkZWQ1ODg2MTU2YSIsImMiOjZ9)
+  
+* [Dashboard Qualidade](https://app.powerbi.com/view?r=eyJrIjoiNDg3ZTI3MzYtODA1Ni00YWVkLWJkYTAtZmYxNWM1ZTE3MTEzIiwidCI6IjkzMTA1Y2MzLTI4OTctNDdlMC1iMjY1LWRkZWQ1ODg2MTU2YSIsImMiOjZ9)
+  
+* [Sistema de Informações Sobre Mortalidade](https://app.powerbi.com/view?r=eyJrIjoiMDFkNDVlNmEtOTA3MC00ZmFjLWIwMWYtOWQ1NzZlZjVmOWY5IiwidCI6IjkzMTA1Y2MzLTI4OTctNDdlMC1iMjY1LWRkZWQ1ODg2MTU2YSIsImMiOjZ9)
+  
+### Habilidades Técnicas
+---
+<img src="https://www.r-project.org/Rlogo.png" width="150" height="105"> <img src = "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="100,7" height="117,8"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" width="80" height="80"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/64px-New_Power_BI_Logo.svg.png" width="80" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Google_Sheets_2020_Logo.svg/64px-Google_Sheets_2020_Logo.svg.png"> <img src = "https://seeklogo.com/images/G/google-big-query-logo-AC63E7C329-seeklogo.com.png"> 
 
 <!---
 welli45/welli45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
