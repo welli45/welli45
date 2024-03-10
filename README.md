@@ -18,10 +18,6 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 * ✍️ Programação em Python e Bancos de Dados SQL;
 * ✍️ E conceitos e aplicações de Busines Inteligence com Power Bi
   
-### Portifólio e Projetos
----
-**[Portfólio Profissional! 🚀](https://welli45.github.io/portifolio/)**
-
 ### Habilidades Técnicas
 ---
 <img src="https://www.r-project.org/Rlogo.png" width="150" height="105"> <img src ="https://github.com/welli45/welli45/assets/74972381/9cc2e420-8876-42f9-b67a-2eb5f1172698" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/dplyr.png" width="53,6" height="65">  <img src = "https://www.tidyverse.org/css/images/hex/tidyr.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/tibble.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/stringr.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/purrr.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/ggplot2.png" width="53,6" height="65"> <img src = "https://www.tidyverse.org/css/images/hex/forcats.png" width="53,6" height="65"> <img src=https://rstudio.github.io/cheatsheets/html/images/logo-rmarkdown.png width="53,6" height="65">
