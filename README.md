@@ -10,11 +10,11 @@ Além disso, faço parte do GIARS - Grupo Interdisciplinar de Pesquisa em Análi
 
 * :mortar_board: Mestrando em Sociologia - UFMG
 * :mortar_board: Cientista Social - UFMG
-* :office: Analista de Dados - OGE - MG
+* :office: Fui analista de Dados - OGE - MG
 * :office: Fui estagiário em Análise de Redes e Dados no Instituto Cordial
 * :office: Fui estagiário em Análise de Dados na SEDESE-MG
 * :rocket: Atualmente estou focado nas áreas de Análise e Ciência de Dados
-* ✍️ Atuamente estou aprofundando meus conhecimentos em estatística e probabilidade;
+* ✍️ Atuamente estou aprofundando meus conhecimentos em cálculo, álgebra, estatística e probabilidades;
 * ✍️ Programação em Python e Bancos de Dados SQL;
 * ✍️ E conceitos e aplicações de Busines Inteligence com Power Bi
 ### Informações de contato
